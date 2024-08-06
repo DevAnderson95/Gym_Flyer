@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    color: red;
+    background-color: black;
+
+
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: gold;
+}
+
+.image-container{
+    display: flex;
+    background-image: url();
+    background-size: contain;
+    justify-content: center;
+    border: 1px solid red;
+}
+
